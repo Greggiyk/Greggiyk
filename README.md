@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Greggiyk
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...Microsoft PowerBI
+- 🌱 I’m currently learning ...Microsoft Power Applications 
 - 💞️ I’m looking to collaborate on ...Business Analysis Projects
 - 📫 How to reach me ...
 
